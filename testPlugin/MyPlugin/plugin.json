@@ -1,0 +1,20 @@
+displayName: "Meu Plugin"
+
+name: "meu-plugin"
+
+author: "test"
+
+main: "src/main.lua"
+
+description: "Meu primeiro plugin Lua."
+
+version: 1.0.0
+
+minGameVersion: 160.3 #não é muito util
+minPluginLogic: 0.1  #ESSE é importante, se não tiver ele se NEGA a funcionar
+
+type: "lua"
+
+permissions: {
+  Debug.print: true
+  }
