@@ -10,8 +10,8 @@ description: "Meu primeiro plugin Lua."
 
 version: 1.0.0
 
-minGameVersion: 160.3 #não é muito util
-minPluginLogic: 0.1  #ESSE é importante, se não tiver ele se NEGA a funcionar
+minGameVersion: 160.3 
+minPluginLogic: 0.1  
 
 type: "lua"
 
